@@ -1,0 +1,38 @@
+.button-navbar__categoria {
+     padding-top: 3px;
+     margin-bottom: 32px;
+}
+
+.button-navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-navbar__icon {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button-navbar__text {
+    font-family: 'Inter', Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: center;
+    color: #737373;  
+    margin-top: 8px;  
+}
+
+.button-navbar__categoria h1 {
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    color: #2F2F2F;
+    margin-bottom: 16px;
+    margin-left: 12px;
+    
+    
+}

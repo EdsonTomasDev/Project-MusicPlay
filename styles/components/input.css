@@ -1,0 +1,33 @@
+.input-navbar {
+    display: flex;;
+    margin-bottom: 16px;
+   
+}
+.input-navbar img:first-child {
+    padding-left: 12px;
+   
+}
+
+.input-navbar img:last-child {
+    padding-right: 12px;
+    
+   
+}
+
+.input-navbar input {
+    width: 375px;
+    height: 48px;
+    border: none;
+
+    font-family: 'Inter', Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    color: #2F2F2F;
+    margin-left: 16px;
+    
+}
+
+.input-navbar__input::placeholder {
+    color: transparent;
+}

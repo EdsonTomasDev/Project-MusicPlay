@@ -1,0 +1,48 @@
+.header-text-pharagrafer{
+    font-family: 'Inter', Helvetica, sans-serif;
+    font-style: normal;
+   
+    text-align: left;
+    color: #2f2f2f;
+    padding-right: 12px;
+    padding-left: 15px;
+}
+.header-text-pharagrafer strong {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.header-text__one {
+   font-size: 22px;
+   font-weight: 700;
+   margin-bottom: 24px;
+
+}
+.header-text__two {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 24px;
+ }
+ .header-text__three {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 24px;
+ }
+ .header-text__four {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 24px;
+ }
+
+ .header-text__five {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 24px;
+
+ }
+
+ .header-text__six {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 24px;
+ }
