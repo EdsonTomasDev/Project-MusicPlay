@@ -6,6 +6,7 @@
 .button-navbar {
     display: flex;
     justify-content: space-between;
+    background: red;
 }
 
 .button-navbar__icon {

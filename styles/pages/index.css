@@ -1,6 +1,28 @@
 @import url(../utils/reset.css);
+
+
+
+
+
+
 @import url(../components/buttons.css);
 @import url(../components/navbar.css);
 @import url(../components/input.css);
 @import url(../components/header-pharagrafer.css);
 @import url(../components/footer.css);
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('../../fonts/SF-Pro-Display-Regular.otf');
+  }
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('../../fonts/SF-Pro-Display-Bold.otf');
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('../../fonts/SF-Pro-Display-BoldItalic.otf');
+    font-style: italic;
+    font-weight: bold;
+  }
