@@ -54,13 +54,17 @@
     justify-content: space-between;
     margin-top: 15px;
     margin-bottom: 10px;
-    /* background: greenyellow; */
+    overflow: auto;
   
+}
+.cardplaylist-small img:last-child {
+    margin-right: 0;
 }
 
 .cardplaylist-small__img {
     width: 171px;
     height: 146px;
+    margin-right: 5px;
 }
 
 .cardplaylist-small__text h1 {
