@@ -1,0 +1,47 @@
+.plalist__title {
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 12px;
+
+}
+
+.cardplaylist-normal {
+    width: 94%;
+    margin:  0 auto;
+    height: 250px;
+    
+    margin-top: 15px;
+    margin-bottom: 10px;
+  
+}
+
+.cardplaylist-normal__img {
+    width: 351px;
+    height: 200px;
+}
+
+.cardplaylist-normal__text h1 {
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+}
+
+.cardplaylist-normal__text p {
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 3px;
+    color: #737373;
+   
+}

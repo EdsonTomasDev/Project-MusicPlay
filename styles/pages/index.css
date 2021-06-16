@@ -1,15 +1,10 @@
 @import url(../utils/reset.css);
-
-
-
-
-
-
 @import url(../components/buttons.css);
 @import url(../components/navbar.css);
 @import url(../components/input.css);
 @import url(../components/header-pharagrafer.css);
 @import url(../components/footer.css);
+@import url(../components/playlists.css);
 
 @font-face {
     font-family: 'SF Pro Display';
