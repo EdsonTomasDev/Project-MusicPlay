@@ -5,6 +5,7 @@
 @import url(../components/header-pharagrafer.css);
 @import url(../components/footer.css);
 @import url(../components/playlists.css);
+@import url(../components/music-item.css);
 
 @font-face {
     font-family: 'SF Pro Display';
