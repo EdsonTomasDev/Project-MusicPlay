@@ -7,6 +7,7 @@
 @import url(../components/playlists.css);
 @import url(../components/music-item.css);
 @import url(../components/playlist-cover.css);
+@import url(../components/menu-playlist.css);
 
 @font-face {
     font-family: 'SF Pro Display';
