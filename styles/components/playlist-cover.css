@@ -1,0 +1,65 @@
+.playlist-cover {
+    height: 267px;
+    display: flex;
+    
+    background: red;
+    padding-top: 37px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background: linear-gradient(180deg, rgba(242, 242, 242, 0) 0%,  #F2F2F2 100%);
+
+}
+
+.playlist-cover__active {
+    position: relative;
+   
+   
+}
+
+.playlist-cover__text {
+  
+   width: 255px;
+}
+
+.playlist-cover__imglist {
+    width: 147px;
+    height: 140px;
+    margin-left: 54px;
+    position: absolute;
+    
+}
+
+.playlist-cover__imgplay {
+    width: 51px;
+    height: 51px;
+    position: absolute;
+    margin-left: 102px;
+    margin-top: 100px;
+   
+}
+
+.playlist-cover__text {
+    position: relative;
+}
+
+.playlist-cover__text h1 {
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 158px;
+    text-align: center;
+    
+   
+}
+
+.playlist-cover__text p {
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 4px;
+    text-align: center;
+    color: #737373;
+   
+}
