@@ -6,8 +6,26 @@
     padding-top: 14px;
     padding-bottom: 14px;
     padding-right: 23px;
-    background: green;
-  
+
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+    color: #2f2f2f;
+}
+
+.music-item:hover {
+    background: #f2f2f2;
+}
+
+.music-item-hover {
+    background: #f2f2f2;
+}
+
+.music-item-active {
+    background: #4285F4;
+    color: #ffffff;
 
 }
 
@@ -21,22 +39,11 @@
 }
 
 .music-item__item {
-    font-family: 'SF Pro Display', Helvetica, sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 500;
-    text-align: left;
-    color: #2f2f2f;
     margin-right: 10px;
 }
 
 .music-item__text {
-    font-family: 'SF Pro Display', Helvetica, sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 500;
-    text-align: left;
-    color: #2f2f2f;
+  
 }
 
 .music-item__time {
